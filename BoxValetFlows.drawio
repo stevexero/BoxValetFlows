@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-18T04:20:04.190Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="SoI0aSTnsoJ7mJ4S7e7h" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-18T06:10:10.479Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="uZAptgB8fPvMDCs4aZhI" version="24.2.2" type="github">
   <diagram name="Page-1" id="5L6RrH0UFsAddIA3VP3m">
     <mxGraphModel dx="1020" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -10,8 +10,8 @@
         <mxCell id="bvwL-7jKEyvld9WCCc7V-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="395" y="60" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bvwL-7jKEyvld9WCCc7V-2" value="Return user_role from /api/get-user-role" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="310" y="18" width="230" height="30" as="geometry" />
+        <mxCell id="bvwL-7jKEyvld9WCCc7V-2" value="api/get-current-user" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="18" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bvwL-7jKEyvld9WCCc7V-6" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bvwL-7jKEyvld9WCCc7V-3" target="bvwL-7jKEyvld9WCCc7V-5">
           <mxGeometry relative="1" as="geometry" />
